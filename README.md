@@ -1,4 +1,4 @@
-## Gentle haptic reminder widget to sit or stand at regular intervals
+## Gentle haptic reminder widget to stand at regular intervals
 
 1. You choose the interval
 2. Color coordinated text provides feedback on the phase
