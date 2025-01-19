@@ -1,5 +1,7 @@
 ## Gentle haptic reminder widget to stand at regular intervals
 
+![Alt text](https://github.com/Maechrene/StandupDeskTimer_Widget/blob/main/assets/StandupTimerScreenshot.png)
+
 1. You choose the interval
 2. Color coordinated text provides feedback on the phase
 3. A gentle chime reminds you to switch phases
