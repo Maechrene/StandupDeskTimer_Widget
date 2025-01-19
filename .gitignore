@@ -1,0 +1,6 @@
+# Ignore build artifacts
+build/
+
+# Ignore pycache
+__pycache__/
+tests/__pycache__/
