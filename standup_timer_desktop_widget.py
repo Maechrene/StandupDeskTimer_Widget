@@ -16,7 +16,7 @@ class Timer:
         # GUI Setup
         self.root = tk.Tk()
         self.root.title("") # test removal
-        self.root.geometry("150x240+4950+1000") # height x width , top right of 3rd monitor
+        self.root.geometry("150x240+3600+900") # (height x width + x + y) , bottom right of 2nd monitor
 
         # Grid configuration
         self.root.grid_columnconfigure(0, weight=1)
