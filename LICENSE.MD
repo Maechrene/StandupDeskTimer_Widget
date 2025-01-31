@@ -1,4 +1,4 @@
-# Source Code Access Agreement
+# Maechrene Source Code Access Agreement
 
 ## 1. License Grant
 The licensor ("Provider"), identified by the GitHub account hosting this repository, grants the licensee ("Recipient") a limited, non-exclusive, non-transferable, and revocable license to:
